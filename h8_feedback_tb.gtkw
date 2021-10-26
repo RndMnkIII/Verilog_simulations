@@ -1,15 +1,15 @@
 [*]
 [*] GTKWave Analyzer v3.3.100 (w)1999-2019 BSI
-[*] Mon Oct 25 16:21:47 2021
+[*] Tue Oct 26 08:47:40 2021
 [*]
 [dumpfile] "C:\Users\javier\Desktop\CAIUS_SEGA_315-5012\simulation\tests\h8_feedback_tb.lxt"
-[dumpfile_mtime] "Mon Oct 25 16:20:28 2021"
-[dumpfile_size] 1363970
+[dumpfile_mtime] "Tue Oct 26 08:46:45 2021"
+[dumpfile_size] 1609675
 [savefile] "C:\Users\javier\Desktop\CAIUS_SEGA_315-5012\simulation\tests\h8_feedback_tb.gtkw"
-[timestart] 0
-[size] 1542 600
+[timestart] 97910000
+[size] 1718 600
 [pos] -1 -1
-*-26.000000 45900000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+*-20.994932 104340000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
 [sst_width] 211
 [signals_width] 230
 [sst_expanded] 1
@@ -21,7 +21,8 @@ h8_feedback_tb.cout[0]
 --------------------
 @22
 h8_feedback_tb.registro[7:0]
-@29
+@28
+[color] 1
 h8_feedback_tb.cout[0]
 @200
 --------------------------
@@ -29,6 +30,7 @@ h8_feedback_tb.cout[0]
 h8_feedback_tb.cout_neg[0]
 h8_feedback_tb.p1[0]
 h8_feedback_tb.n1[0]
+[color] 3
 h8_feedback_tb.LD_HCNTn[0]
 @200
 -
@@ -43,6 +45,12 @@ h8_feedback_tb.r1[0]
 h8_feedback_tb.r1n[0]
 h8_feedback_tb.r1n_neg[0]
 h8_feedback_tb.n2[0]
+[color] 2
 h8_feedback_tb.H8[0]
+@23
+h8_feedback_tb.H[7:0]
+@28
+h8_feedback_tb.HSYNCn[0]
+h8_feedback_tb.CPUn[0]
 [pattern_trace] 1
 [pattern_trace] 0
